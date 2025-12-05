@@ -1,3 +1,2 @@
-this is from bug
-#object 
-resolve the conflict
+this is main
+this feature
