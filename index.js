@@ -1,5 +1,5 @@
-console.log(" bug");
-for(var i=0;i<=10;i++)
+console.log(" hello world");
+for(var i=0;i<=5;i++)
 {
-    console.log("code")
+    console.log(" rummong loop")
 }
